@@ -1,8 +1,9 @@
 ---
-date created: Thursday, November 3rd 2022, 10:43:45 am
-date modified: Thursday, November 3rd 2022, 5:31:05 pm
-tags : ["Web-Development", "Front-End", "Back-End", "DevOps"]
-author : ["LUX14Zx"]
+date created: 
+date modified: 
+tags : []
+language: 
+author : []
 ---
 
 # Web Developer
